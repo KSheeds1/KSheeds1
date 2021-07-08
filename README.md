@@ -7,6 +7,8 @@
 
 - 🔭 I just finished working on ['Thorin & Company'](https://github.com/KSheeds1/Thorin-Company) a site I built using Flask and Python. 
 - 🌱 I’m currently learning about data fundamentals!
+<br>
+<br>
 
 ## Fluent in 
 <img align="left" alt="HTML" src="https://img.shields.io/badge/-HTML-orange">
