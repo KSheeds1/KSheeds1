@@ -6,7 +6,8 @@
  
 
 - 🔭 I just finished working on [Gym Rat Dictionaries](https://github.com/KSheeds1/Gym-Rat-Dictionaries) a site I built using Flask, Python, and MongoDB. 
-- 🌱 I’m currently learning about Full Stack Frameworks, in particular Django and will be starting a new project called Boutique Ado to learn more about Django.
+- 🌱 I’m currently learning about Full Stack Frameworks, in particular Django and will be starting a new project called Boutique Ado to put
+what I learn into practice!
 <br>
 <br>
 
