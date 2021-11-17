@@ -5,8 +5,8 @@
  My name is Katie and I'm a Junior Full Stack Developer, currently enrolled with Code Institute, Ireland.
  
 
-- 🔭 I just finished working on ['Thorin & Company'](https://github.com/KSheeds1/Thorin-Company) a site I built using Flask and Python. 
-- 🌱 I’m currently learning about data fundamentals!
+- 🔭 I just finished working on [Gym Rat Dictionaries](https://github.com/KSheeds1/Gym-Rat-Dictionaries) a site I built using Flask, Python, and MongoDB. 
+- 🌱 I’m currently learning about Full Stack Frameworks, in particular Django and will be starting a new project called Boutique Ado to learn more about Django.
 <br>
 <br>
 
