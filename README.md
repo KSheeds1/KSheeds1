@@ -2,12 +2,11 @@
 
 <!--
 **KSheeds1/KSheeds1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
- My name is Katie and I'm a Junior Full Stack Developer, currently enrolled with Code Institute, Ireland.
+ My name is Katie and I'm a Junior Full Stack Developer, recently completed a diploma with Code Institute, in Full Stack Software Developement.
  
 
-- 🔭 I just finished working on [Gym Rat Dictionaries](https://github.com/KSheeds1/Gym-Rat-Dictionaries) a site I built using Flask, Python, and MongoDB. 
-- 🌱 I’m currently learning about Full Stack Frameworks, in particular Django and will be starting a new project called Boutique Ado to put
-what I learn into practice!
+- 🔭 I finished working on [Gym Rat Fitness](https://gym-rat-fitness.herokuapp.com/) a fitness subscription application I built using Python and Django, Postgres, and Stripe payments. 
+- 🌱 I’m currently learning about more about Full Stack Frameworks and testing.
 <br>
 <br>
 
@@ -17,6 +16,12 @@ what I learn into practice!
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow">
 <img align="left" alt="Python" src="https://img.shields.io/badge/-Python-blue">
 <img align="left" alt="Flask" src="https://img.shields.io/badge/-Flask-brightgreen">
+<img align="left" alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-blueviolet">
+<img align="left" alt="Django" src="https://img.shields.io/badge/-Django-yellowgreen">
+<img align="left" alt="Stripe" src="https://img.shields.io/badge/-Stripe-blue">
+<img align="left" alt="MySQL" src="https://img.shields.io/badge/-MySQL-success">
+<img align="left" alt="Postgres" src="https://img.shields.io/badge/-Postgres-blueviolet">
+<img align="left" alt="Materialize" src="https://img.shields.io/badge/-Materialize-9cf">
 <br>
 <br>
 
