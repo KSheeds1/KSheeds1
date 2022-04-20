@@ -2,11 +2,11 @@
 
 <!--
 **KSheeds1/KSheeds1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
- My name is Katie and I'm a Junior Full Stack Developer, recently completed a diploma with Code Institute, in Full Stack Software Developement.
+ My name is Katie and I'm a Junior Full Stack Developer, I recently completed a diploma with Code Institute, in Full Stack Software Developement and am looking for work.
  
 
 - 🔭 I finished working on [Gym Rat Fitness](https://gym-rat-fitness.herokuapp.com/) a fitness subscription application I built using Python and Django, Postgres, and Stripe payments. 
-- 🌱 I’m currently learning about more about Full Stack Frameworks and testing.
+- 🌱 I’m currently learning more about Full Stack Frameworks and testing.
 <br>
 <br>
 
